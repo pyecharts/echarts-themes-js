@@ -4,11 +4,17 @@
     "JUPYTER_ENTRY": "echarts-themes-js/index",
     "JS_FOLDER": "echarts-themes-js",
     "PINYIN_MAP": {
-        /* "Chinese text": "Chinese pinyin or nickname", */
-        /* "伦敦": "lundun", */
+        "shine": "shine",
+        "infographic": "infographic",
+        "roma": "roma",
+        "vintage": "vintage",
+        "macarons": "macarons"
     },
     "FILE_MAP": {
-        /* "nick name": "map js file name" */
-        /* "lundun": "london", */
+        "shine": "shine",
+        "infographic": "infographic",
+        "roma": "roma",
+        "vintage": "vintage",
+        "macarons": "macarons"
     }
 }
