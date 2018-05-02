@@ -1,0 +1,14 @@
+{
+    "JUPYTER_URL": "/nbextensions/echarts-themes-js",
+    "GITHUB_URL": "https://echarts-themes-js.github.io/echarts-themes-js/echarts-themes-js",
+    "JUPYTER_ENTRY": "echarts-themes-js/index",
+    "JS_FOLDER": "echarts-themes-js",
+    "PINYIN_MAP": {
+        /* "Chinese text": "Chinese pinyin or nickname", */
+        /* "伦敦": "lundun", */
+    },
+    "FILE_MAP": {
+        /* "nick name": "map js file name" */
+        /* "lundun": "london", */
+    }
+}

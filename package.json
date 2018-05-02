@@ -1,0 +1,15 @@
+{
+  "name": "echarts-themes-js",
+  "version": "1.0.0",
+  "description": "include echarts vintage, macarons, infographic, shine, roma theme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "C.W.",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-minify": "^2.1.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
