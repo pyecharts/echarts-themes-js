@@ -1,6 +1,6 @@
 # Change log
 
-## 1.0.0 - unrelease
+## 1.0.0 - 12.05.2018
 
 ### Added
 
