@@ -8,7 +8,14 @@
         "infographic": "infographic",
         "roma": "roma",
         "vintage": "vintage",
-        "macarons": "macarons"
+        "macarons": "macarons",
+        "westeros": "westeros",
+        "wonderland": "wonderland",
+        "chalk": "chalk",
+        "halloween": "halloween",
+        "essos": "essos",
+        "walden": "walden",
+        "purple-passion": "purple-passion"
     },
     "FILE_MAP": {
         "shine": "shine",
@@ -16,5 +23,12 @@
         "roma": "roma",
         "vintage": "vintage",
         "macarons": "macarons"
+        "westeros": "westeros",
+        "wonderland": "wonderland",
+        "chalk": "chalk",
+        "halloween": "halloween",
+        "essos": "essos",
+        "walden": "walden",
+        "purple-passion": "purple-passion"
     }
 }

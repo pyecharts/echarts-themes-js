@@ -1,7 +1,15 @@
+name: echarts-themes-js
+organisation: pyecharts
 releases:
 - changes:
   - action: Added
     details:
+    - "Adding addtional 7 themes: esteros, wonderland, chalk, halloween, essos, walden and purple-passion"
+  date: 11.8.2018
+  version: 1.0.1
+- changes:
+  - action: Added
+    details:
     - initial release
-  date: unrelease
+  date: 05.2018
   version: 1.0.0
