@@ -1,6 +1,6 @@
 {
   "name": "echarts-themes-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "include echarts vintage, macarons, infographic, shine, roma theme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

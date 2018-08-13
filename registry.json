@@ -15,7 +15,8 @@
         "halloween": "halloween",
         "essos": "essos",
         "walden": "walden",
-        "purple-passion": "purple-passion"
+        "purple-passion": "purple-passion",
+        "romantic": "romantic"
     },
     "FILE_MAP": {
         "shine": "shine",
@@ -29,6 +30,7 @@
         "halloween": "halloween",
         "essos": "essos",
         "walden": "walden",
-        "purple-passion": "purple-passion"
+        "purple-passion": "purple-passion",
+        "romantic": "romantic"
     }
 }
